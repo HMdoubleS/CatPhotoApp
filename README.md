@@ -1,1 +1,2 @@
-Cat Photo App project on freeCodeCamp.com
+Cat Photo App project on freeCodeCamp.com for the Certified Full Stack Developer Curriculum. <br>
+This project can be viewed at https://hmdoubles.github.io/CatPhotoApp/
